@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/course04/pom.xml" />
+        <option value="$PROJECT_DIR$/course05/pom.xml" />
+        <option value="$PROJECT_DIR$/course06/pom.xml" />
+        <option value="$PROJECT_DIR$/course01/pom.xml" />
+        <option value="$PROJECT_DIR$/course01_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course02/pom.xml" />
+        <option value="$PROJECT_DIR$/course02_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course03/pom.xml" />
+        <option value="$PROJECT_DIR$/course03_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo/course04_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course04_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course05_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course08/pom.xml" />
+        <option value="$PROJECT_DIR$/course09/pom.xml" />
+        <option value="$PROJECT_DIR$/course10/pom.xml" />
+        <option value="$PROJECT_DIR$/course07/pom.xml" />
+        <option value="$PROJECT_DIR$/course06_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course07_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course08_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course09_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course10_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course11/pom.xml" />
+        <option value="$PROJECT_DIR$/course12/pom.xml" />
+        <option value="$PROJECT_DIR$/course13/pom.xml" />
+        <option value="$PROJECT_DIR$/course11_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course12_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course14/pom.xml" />
+        <option value="$PROJECT_DIR$/course13_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/course16/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

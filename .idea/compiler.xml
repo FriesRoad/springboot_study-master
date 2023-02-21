@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="course09_demo" />
+        <module name="course12_demo" />
+        <module name="course16" />
+        <module name="course07_demo" />
+        <module name="course04_demo" />
+        <module name="course04" />
+        <module name="course01_demo" />
+        <module name="course03" />
+        <module name="course02" />
+        <module name="course01" />
+        <module name="course08_demo" />
+        <module name="course02_demo" />
+        <module name="course05_demo" />
+        <module name="course13_demo" />
+        <module name="course08" />
+        <module name="course07" />
+        <module name="course06" />
+        <module name="course05" />
+        <module name="course10_demo" />
+        <module name="course09" />
+        <module name="course11" />
+        <module name="course10" />
+        <module name="course14" />
+        <module name="course13" />
+        <module name="course12" />
+        <module name="course03_demo" />
+        <module name="course06_demo" />
+        <module name="course11_demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="course01" target="1.8" />
+      <module name="course01_demo" target="1.8" />
+      <module name="course02" target="1.8" />
+      <module name="course02_demo" target="1.8" />
+      <module name="course03" target="1.8" />
+      <module name="course03_demo" target="1.8" />
+      <module name="course04" target="1.8" />
+      <module name="course04_demo" target="1.8" />
+      <module name="course05" target="1.8" />
+      <module name="course05_demo" target="1.8" />
+      <module name="course06" target="1.8" />
+      <module name="course06_demo" target="1.8" />
+      <module name="course07" target="1.8" />
+      <module name="course07_demo" target="1.8" />
+      <module name="course08" target="1.8" />
+      <module name="course08_demo" target="1.8" />
+      <module name="course09" target="1.8" />
+      <module name="course09_demo" target="1.8" />
+      <module name="course10" target="1.8" />
+      <module name="course10_demo" target="1.8" />
+      <module name="course11" target="1.8" />
+      <module name="course11_demo" target="1.8" />
+      <module name="course12" target="1.8" />
+      <module name="course12_demo" target="1.8" />
+      <module name="course13" target="1.8" />
+      <module name="course13_demo" target="1.8" />
+      <module name="course14" target="1.8" />
+      <module name="course16" target="1.8" />
+      <module name="demo01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="course01" options="-parameters" />
+      <module name="course01_demo" options="-parameters" />
+      <module name="course02" options="-parameters" />
+      <module name="course02_demo" options="-parameters" />
+      <module name="course03" options="-parameters" />
+      <module name="course03_demo" options="-parameters" />
+      <module name="course04" options="-parameters" />
+      <module name="course04_demo" options="-parameters" />
+      <module name="course05" options="-parameters" />
+      <module name="course05_demo" options="-parameters" />
+      <module name="course06" options="-parameters" />
+      <module name="course06_demo" options="-parameters" />
+      <module name="course07" options="-parameters" />
+      <module name="course07_demo" options="-parameters" />
+      <module name="course08" options="-parameters" />
+      <module name="course08_demo" options="-parameters" />
+      <module name="course09" options="-parameters" />
+      <module name="course09_demo" options="-parameters" />
+      <module name="course10" options="-parameters" />
+      <module name="course10_demo" options="-parameters" />
+      <module name="course11" options="-parameters" />
+      <module name="course11_demo" options="-parameters" />
+      <module name="course12" options="-parameters" />
+      <module name="course12_demo" options="-parameters" />
+      <module name="course13" options="-parameters" />
+      <module name="course13_demo" options="-parameters" />
+      <module name="course14" options="-parameters" />
+      <module name="course16" options="-parameters" />
+    </option>
+  </component>
+</project>
